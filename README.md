@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sharad Bisht</h1>
-<h3 align="center">A passionate backend developer working with SLB. Proficient in Java and REST services, with a focus on building scalable systems. A collaborative agile team member dedicated to delivering high-quality software product from India</h3>
+<h1 align="center">Hi there👋, I'm Sharad Bisht</h1>
+<h3 align="center">A passionate backend developer, holds experience of 3 years in the industry. Currently working with Schlumberger. Proficient in Java and REST services, with a focus on building scalable systems. A collaborative agile team member dedicated to delivering high-quality software product from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srberation&label=Profile%20views&color=0e75b6&style=flat" alt="srberation" /> </p>
 
-- 🔭 I’m currently working on [MARQ-D&M WorkOrder Transactions with SLB] 
+- 🔭 My current projects includes **MARQ-D&M WorkOrder Transactions and Inspection Forms modulation in Work Centers**
 
 - 🌱 I’m currently learning **Design Patterns, Spring and Spring Boot Framework, JavaScript, ReactJS, Mongoose, MongoDB by doing few side projects**
 
-- 👯 I’m looking to collaborate on **projects based Microservices architectures**
+- 👯 I’m looking to contribute in **projects based on Microservices principles with hands on API design, and CI/CD pipelines.**
 
-- 🤝 I’m looking for help with **Roles that are based on backend development.**
+- 🤝 I’m looking for help with **increasing by expertise in backend development(JAVA preferably), containerization, API design, and CI/CD pipelines**
 
-- 💬 Ask me about **Data Structures, LLD, WebServices**
+- 💬 Ask me about **Data Structures & Algo, System Design. Logging Frameworks**
 
 - 📫 How to reach me **sharadbisht3@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/srb26/overlay/1635541429464/single-media-viewer?type=DOCUMENT&profileId=ACoAACFFTJwB8o8k8E7-f3nlxensuTtliz8wiy0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGkiB3WVBQzyRXn%2BZPjQapQ%3D%3D](https://www.linkedin.com/in/srb26/overlay/1635541429464/single-media-viewer?type=DOCUMENT&profileId=ACoAACFFTJwB8o8k8E7-f3nlxensuTtliz8wiy0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BGkiB3WVBQzyRXn%2BZPjQapQ%3D%3D)
+- 📄 Know about my experiences [https://www.linkedin.com/in/srb26](https://www.linkedin.com/in/srb26)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
