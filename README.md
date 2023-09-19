@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srberation&label=Profile%20views&color=0e75b6&style=flat" alt="srberation" /> </p>
 
-- 🔭 I’m currently working on [MARQ-D&M WorkOrder Transactions in](SLB)
+- 🔭 I’m currently working on [MARQ-D&M WorkOrder Transactions with SLB] 
 
 - 🌱 I’m currently learning **Design Patterns, Spring and Spring Boot Framework, JavaScript, ReactJS, Mongoose, MongoDB by doing few side projects**
 
