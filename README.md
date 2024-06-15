@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sharad Bisht</h1>
-<h3 align="center">A passionate backend developer, holds experience of 3 years in the industry. Currently working with Schlumberger. Proficient in Java and REST services, with a focus on building scalable systems. A collaborative agile team member dedicated to delivering high-quality software product from India</h3>
+<h3 align="center">A backend developer, holds experience of around 4 years in the industry. Currently working with Schlumberger. Proficient in Java and REST services, with a focus on building scalable systems. A collaborative agile team member dedicated to delivering high-quality software product from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srberation&label=Profile%20views&color=0e75b6&style=flat" alt="srberation" /> </p>
 
