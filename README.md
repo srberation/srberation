@@ -5,13 +5,9 @@
 
 - 🔭 My current projects includes **MARQ-D&M WorkOrder Transactions and Inspection Forms modulation in Work Centers**
 
-- 🌱 I’m currently learning **Design Patterns, Spring and Spring Boot Framework, JavaScript, ReactJS, Mongoose, MongoDB by doing few side projects**
+- 🌱 Currently learning **Design Patterns, Spring and Spring Boot Framework, JavaScript, ReactJS, Mongoose, MongoDB by doing few side projects**
 
-- 👯 I’m looking to contribute in **projects based on Microservices principles with hands on API design, and CI/CD pipelines.**
-
-- 🤝 I’m looking for help with **increasing by expertise in backend development(JAVA preferably), containerization, API design, and CI/CD pipelines**
-
-- 💬 Ask me about **Data Structures & Algo, System Design. Logging Frameworks**
+- 🤝 Looking for **increasing expertise in backend development(JAVA preferably), Containerization and API designs.**
 
 - 📫 How to reach me **sharadbisht3@gmail.com**
 
