@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Sharad Bisht</h1>
-<h3 align="center">A backend developer, holds experience of around 4 years in the industry. Currently working with Schlumberger. Proficient in Java and REST services, with a focus on building scalable systems. A collaborative agile team member dedicated to delivering high-quality software product from India</h3>
+<h3 align="center">A backend developer, holds experience of around 4 years in the industry. Currently working with Bluevoir. Proficient in Java and REST services, with a focus on building scalable systems. A collaborative agile team member dedicated to delivering high-quality software product from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srberation&label=Profile%20views&color=0e75b6&style=flat" alt="srberation" /> </p>
 
-- 🔭 My current projects includes **MARQ-D&M WorkOrder Transactions and Inspection Forms modulation in Work Centers**
+- 🔭 My recent projects includes **MARQ-D&M WorkOrder Transactions and Inspection Forms modulation in Work Centers** for Schlumberger
 
-- 🌱 Currently learning **Design Patterns, Spring and Spring Boot Framework, JavaScript, ReactJS, Mongoose, MongoDB by doing few side projects**
+- 🌱 Currently learning **Design Patterns, Spring Boot and Spring Security framework, JavaScript, MongoDB by doing few side projects**
 
 - 🤝 Looking for **increasing expertise in backend development(JAVA preferably), Containerization and API designs.**
 
